@@ -1,0 +1,5 @@
+package com.bytecode.core.controllers;
+
+public class ControllerBasic {
+
+}
